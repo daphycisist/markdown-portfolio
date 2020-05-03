@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Agiamah Precious avatar](https://cdn.dribbble.com/users/28838/screenshots/577739/attachments/44593/IronMan.png)
